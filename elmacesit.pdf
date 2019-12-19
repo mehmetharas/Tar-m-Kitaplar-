@@ -1,0 +1,186 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns:o="urn:schemas-microsoft-com:office:office" lang="tr-tr" dir="ltr">
+<head><meta name="GENERATOR" content="Microsoft SharePoint" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="Expires" content="0" /><meta http-equiv="X-UA-Compatible" content="IE=8"/><meta name="ROBOTS" content="NOHTMLINDEX" /><title>
+	
+	Hata
+
+</title><link rel="stylesheet" type="text/css" href="/_layouts/15/1055/styles/corev15.css?rev=mUST6f7IAt1YgqDWSkLobg%3D%3D"/>
+<link rel="stylesheet" type="text/css" href="/_layouts/15/1055/styles/error.css?rev=XD1oRLHU9Y01vSl2LBouQQ%3D%3D"/>
+<script type="text/javascript" src="/_layouts/15/init.js?rev=Cv9RhP3nrueoFDa3tkS6FQ%3D%3D"></script>
+<script type="text/javascript" src="/ScriptResource.axd?d=EbhnnsDZi43i-iFsgIbYydwf_b9NJyU0NogdKIVNDtEp74zee_Ws01bLukbkULpKesblmu_7B0H3_S8DI_kklBeHjpkDIV8iGu6hkvdn7g5irBNQl0XBGLo-LJG7U4QC7VAlAxs8wo8n3pfzVy12mclts3kse2GN6VGc9S6MCCPUL-G5ArtvCnJaxdRMY3zb0&amp;t=42a7acab"></script>
+<script type="text/javascript" src="/_layouts/15/blank.js?rev=ZaOXZEobVwykPO9g8hq%2F8A%3D%3D"></script>
+<script type="text/javascript" src="/ScriptResource.axd?d=rVAXojbBTr_UOF58ZtCQkPYTKYcDf2h0MF2bnGDKolklRVFY5lsH6Y4s0PT2sSMuwtCWK4_Rx8WDyC-spGaPjNRuhI_j1oOX6Gd9f1oCv280gG9_fojjHg6ba4hATagAU05XdDvSknHIz72iW9ObJaTMelhzuZsxiXfBTlDV0ahPB6ln9lViU6w3aq5drBKx0&amp;t=42a7acab"></script>
+<script type="text/javascript">RegisterSod("initstrings.js", "\u002f_layouts\u002f15\u002f1055\u002finitstrings.js?rev=CKFpY\u00252FkWujUI0\u00252B\u00252B8Xum0UA\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("strings.js", "\u002f_layouts\u002f15\u002f1055\u002fstrings.js?rev=uBgv\u00252F5Xx7EDBu1aHQkvPkg\u00253D\u00253D");RegisterSodDep("strings.js", "initstrings.js");</script>
+<script type="text/javascript">RegisterSod("sp.init.js", "\u002f_layouts\u002f15\u002fsp.init.js?rev=jvJC3Kl5gbORaLtf7kxULQ\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("sp.res.resx", "\u002f_layouts\u002f15\u002fScriptResx.ashx?culture=tr\u00252Dtr\u0026name=SP\u00252ERes\u0026rev=zlrHMGSqRP263aVp5WwMkA\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("sp.ui.dialog.js", "\u002f_layouts\u002f15\u002fsp.ui.dialog.js?rev=3Oh2QbaaiXSb7ldu2zd6QQ\u00253D\u00253D");RegisterSodDep("sp.ui.dialog.js", "sp.init.js");RegisterSodDep("sp.ui.dialog.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("core.js", "\u002f_layouts\u002f15\u002fcore.js?rev=LRiXwLWSJUxKuVCrXa3yDg\u00253D\u00253D");RegisterSodDep("core.js", "strings.js");</script>
+<script type="text/javascript">RegisterSod("foldhyperlink.js", "\u002f_layouts\u002f15\u002ffoldhyperlink.js?rev=JnjM4kpe0i1y9awK3p5UJw\u00253D\u00253D");</script>
+
+	<meta name="Robots" content="NOINDEX " />
+	<meta name="SharePointError" content="0" />
+<link rel="shortcut icon" href="/_layouts/15/images/favicon.ico?rev=23" type="image/vnd.microsoft.icon" /></head>
+<body id="ms-error-body" onload="if (typeof(_spBodyOnLoadWrapper) != 'undefined') _spBodyOnLoadWrapper();">
+	<form method="post" action="../../../_layouts/15/error.aspx" id="aspnetForm" onsubmit="if (typeof(_spFormOnSubmitWrapper) != &#39;undefined&#39;) {return _spFormOnSubmitWrapper();} else {return true;}">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTIzOTk3ODA3OA9kFgJmD2QWAgIBD2QWAgIDD2QWAgIJD2QWAgIBD2QWBAIDDw8WAh4HVmlzaWJsZWhkZAIHD2QWAgIBDw8WAh4XTGlua1RpdGxlV2hlbkZvbGRDbG9zZWQFE1Rla25payBBeXLEsW50xLFsYXJkFghmD2QWAgIBDw9kFgIeB29uY2xpY2sFzAFFbnN1cmVTY3JpcHRQYXJhbXMoJ2ZvbGRoeXBlcmxpbmsuanMnLCAnVG9nZ2xlRm9sZFRleHQnLCAnZDIyZGU2MzIxZjkwNGYwNzkzMWZjZDAxNmNjM2ZhMjYnLCAnY3RsMDBfUGxhY2VIb2xkZXJNYWluX0ZvbGRMaW5rX19tb3JlRGV0YWlsc0xpbmsnLCAnVGVrbmlrIEF5csSxbnTEsWxhcicsICdUZWtuaWsgQXlyxLFudMSxbGFyJyk7O3JldHVybiBmYWxzZTsWAgIBDw8WAh4EVGV4dAUTVGVrbmlrIEF5csSxbnTEsWxhchYEHgRocmVmBQEjHwIFG1ByZXZlbnREZWZhdWx0TmF2aWdhdGlvbigpO2QCBQ8PFgIfAGhkZAIJDw8WAh8DBTlCYcSfxLFudMSxIEtpbWxpxJ9pOiBlMTQ4MWM5Zi00NjQ0LWQwODctMmU5Yy0yMDQ3N2U2OWE0ZWRkZAILDw8WAh8DBSJUYXJpaCB2ZSBTYWF0OiAyOC4xMS4yMDE5IDE3OjE5OjI5ZGRkwi4PBFrmVnMNJqxR3fnZudsvqOOfZokCqnLb25TgFtw=" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=_mqy9Bz8KUpVYLgHq-bO3cZwXhSAcWFTcb5DhOK6ClLfNfW13AWt32IWaW_y78s8mszgQ_FGYaisSvKr6tGmeJSZsRQOsFjt8E6iDMtimlQ1&amp;t=635332835230294717" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+var g_presenceEnabled = false;
+var g_wsaEnabled = false;
+var g_wsaQoSEnabled = false;
+var g_wsaQoSDataPoints = [];
+var g_wsaLCID = 1055;
+var g_wsaListTemplateId = null;
+var g_wsaSiteTemplateId = 'STS#0';
+var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002f", webAbsoluteUrl: "https:\u002f\u002farastirma.tarimorman.gov.tr", siteAbsoluteUrl: "https:\u002f\u002farastirma.tarimorman.gov.tr", serverRequestPath: "\u002fmarim\u002fBelgeler\u002fYeti\u015Ftiricilik Bilgileri\u002felmacesit.pdf", layoutsUrl: "_layouts\u002f15", webTitle: "Ara\u015Ft\u0131rma Kurulu\u015Flar\u0131", webTemplate: "1", tenantAppVersion: "0", isAppWeb: false, webLogoUrl: "_layouts\u002f15\u002fimages\u002fsiteicon.png", webLanguage: 1055, currentLanguage: 1055, currentUICultureName: "tr-TR", currentCultureName: "tr-TR", clientServerTimeDelta: new Date("2019-11-28T14:19:29.2525145Z") - new Date(), siteClientTag: "12045$$15.0.4911.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:200801}, pagePersonalizationScope:1, alertsEnabled:true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True'};//]]>
+</script>
+
+<script src="/_layouts/15/blank.js?rev=ZaOXZEobVwykPO9g8hq%2F8A%3D%3D" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="F3F6CE2F" />
+</div>
+	<script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager', 'aspnetForm', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+	<div id="ms-error-header" class="ms-pr">
+		<h1 class="ms-core-pageTitle">
+			
+	<div id="ctl00_PlaceHolderPageTitleInTitleArea_ErrorPageTitlePanel">
+	
+	Ne yazık ki bir sorun oluştu.
+</div>
+
+		</h1>
+		<div>
+			
+		</div>
+	</div>
+	<div id="ms-error">
+		<div id="ms-error-top">
+			
+		</div>
+		<div id="ms-error-content">
+			<div id="ms-error-error-content">
+				<div id="DeltaPlaceHolderMain">
+	
+					
+	
+	
+	<div>
+		<span id="ctl00_PlaceHolderMain_LabelMessage">Beklenmeyen bir hata oluştu.</span>
+	</div>
+	<div id="ctl00_PlaceHolderMain_FoldPanel" class="ms-error-detailsFold">
+		
+		<div id="ctl00_PlaceHolderMain_FoldLink_foldLinkWrapper">
+			
+	<div id="ctl00_PlaceHolderMain_FoldLink_foldLinkPanel" class="ms-foldHyperLink-panel" onclick="EnsureScriptParams(&#39;foldhyperlink.js&#39;, &#39;ToggleFoldText&#39;, &#39;d22de6321f904f07931fcd016cc3fa26&#39;, &#39;ctl00_PlaceHolderMain_FoldLink__moreDetailsLink&#39;, &#39;Teknik Ayrıntılar&#39;, &#39;Teknik Ayrıntılar&#39;);;return false;">
+				
+		<a id="ctl00_PlaceHolderMain_FoldLink__moreDetailsLink" class="ms-commandLink ms-floatLeft" href="#" onclick="PreventDefaultNavigation();">Teknik Ayrıntılar</a>
+		<div class="ms-clear"></div>
+	
+			</div>
+
+		</div><div class="ms-hide" id="d22de6321f904f07931fcd016cc3fa26">
+
+			<div>
+				<p>
+					<span class="ms-descriptiontext">
+					
+					</span>
+				</p>
+				<p>
+					<span class="ms-descriptiontext">
+						
+						<div id="ctl00_PlaceHolderMain_FoldLink_WSSEndUser_troubleshootingPanel">
+			
+							<span id="ctl00_PlaceHolderMain_FoldLink_helptopic_WSSEndUser_troubleshooting"><a title="Microsoft SharePoint Foundation ile ilgili sorunları giderin. - Yeni pencerede açılır" href="javascript:HelpWindowKey('WSSEndUser_troubleshooting')">Microsoft SharePoint Foundation ile ilgili sorunları giderin.</a></span>
+						
+		</div>
+					</span>
+				</p>
+				<p>
+					<span id="ctl00_PlaceHolderMain_FoldLink_RequestGuidText" class="ms-metadata">Bağıntı Kimliği: e1481c9f-4644-d087-2e9c-20477e69a4ed</span>
+				</p>
+				<p>
+					<span id="ctl00_PlaceHolderMain_FoldLink_DateTimeText" class="ms-metadata">Tarih ve Saat: 28.11.2019 17:19:29</span>
+				</p>
+			</div>
+		</div>
+	
+	</div>
+	<div class="ms-error-techMsg">
+		<hr />
+	</div>
+	<script type="text/javascript">// <![CDATA[ 
+
+
+		var gearPage = document.getElementById('ms-loading-box');
+		if(null != gearPage)
+		{
+			gearPage.parentNode.removeChild(gearPage);
+			document.title = "Hata";
+		}
+		function _spBodyOnLoad()
+		{
+			var intialFocus = (document.getElementById("ctl00_PlaceHolderMain_FoldLink__moreDetailsLink"));
+			try
+			{
+				intialFocus.focus();
+			}
+			catch(ex)
+			{
+			}
+		}
+	// ]]>
+</script>
+
+				
+</div>
+			</div>
+			
+				<div id="ms-error-gobackcont" class="ms-calloutLink">
+					<a href="/" class='ms-calloutLink' id="ctl00_PlaceHolderGoBackLink_idSimpleGoBackToHome">Siteye geri dön</a>
+				</div>
+			
+		</div>
+	</div>
+</form>
+</body>
+</html>
